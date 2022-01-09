@@ -1,5 +1,11 @@
+# Hi, I'm Emmanuel Emejulu ! 👋
 
-### Loading README.md...
+Web Developer |  Android Developer
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/EmejuluPortfolio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-emejulu-ba3411227/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emejulucodes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUEsoft) [![][banner-url]][repo-url]  
 
