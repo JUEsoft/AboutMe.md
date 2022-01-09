@@ -9,6 +9,7 @@ Web Developer |  Android Developer
 
 ## 📈 Stats
 ![Emejulu Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=JUEsoft)
+
 [![wakatime](https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg)](https://wakatime.com/@6887a696-3885-4b54-a72b-318b6f2379be)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUEsoft)
