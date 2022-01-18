@@ -5,12 +5,22 @@
   <h2 align="center">Emmanuel Emejulu</h2>
   <p align="center">Web and Android Developer!</p>
 </p>
+
 <p align="center">
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=JUEsoft)
- ![Wakatime](https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg)
- ![twitter](https://img.shields.io/twitter/follow/emejulucodes?label=followers&logo=twitter&color=%23007ec6&style=plastic)
- ![github](https://img.shields.io/github/followers/JUEsoft?logo=github&style=plastic)
+  <a href="https://github.com/JUEsoft">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=JUEsoft"/> 
+  </a>
+<a href="https://wakatime.com/@Emejulu">
+    <img src="https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg"/> 
+  </a>  
+ <a href="https://twitter.com/emejulucodes">
+    <img src="https://img.shields.io/twitter/follow/emejulucodes?label=followers&logo=twitter&color=%23007ec6&style=plastic"/> 
+  </a>
+  <a href="https://github.com/JUEsoft">
+    <img src="https://img.shields.io/github/followers/JUEsoft?logo=github&style=plastic"/> 
+  </a>
 </p>
+
 <p>
 <h2>🏆 Github Trophy </h2>
 <a href="https://bit.ly/EmejuluPortfolio">
