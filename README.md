@@ -2,7 +2,7 @@
 <a href="https://bit.ly/EmejuluPortfolio">
   <img width="140" src="https://avatars.githubusercontent.com/u/54607888?v=4" /> 
   </a> 
-  <h2 align="center">Emejulu Portfolio</h2>
+  <h2 align="center">Emmanuel Emejulu</h2>
   <p align="center">Web and Android Developer!</p>
 </p>
 
