@@ -3,7 +3,7 @@
   <img width="140" src="https://avatars.githubusercontent.com/u/54607888?v=4" /> 
   </a> 
   <h2 align="center">Emmanuel Emejulu</h2>
-  <p align="center">Web and Android Developer!</p>
+  <p align="center">Web and Android Developer</p>
 </p>
 
 <p align="center">
