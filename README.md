@@ -13,9 +13,9 @@
  <a href="https://bit.ly/EmejuluPortfolio">
     <img src="https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg"/> 
   </a>
+</p>
 [![twitter](https://img.shields.io/twitter/follow/emejulucodes?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/emejulucodes)
 [![github](https://img.shields.io/github/followers/JUEsoft?logo=github&style=plastic)](https://github.com/JUEsoft?tab=followers)
-</p>
 
 <p>
 <h2>🏆 Github Trophy </h2>
