@@ -5,12 +5,12 @@
   <h2 align="center">Emmanuel Emejulu</h2>
   <p align="center">Web and Android Developer!</p>
 </p>
-
+<p align="center">
  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=JUEsoft)
  ![Wakatime](https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg)
  ![twitter](https://img.shields.io/twitter/follow/emejulucodes?label=followers&logo=twitter&color=%23007ec6&style=plastic)
  ![github](https://img.shields.io/github/followers/JUEsoft?logo=github&style=plastic)
-
+</p>
 <p>
 <h2>🏆 Github Trophy </h2>
 <a href="https://bit.ly/EmejuluPortfolio">
