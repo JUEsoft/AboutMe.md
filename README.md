@@ -1,6 +1,20 @@
-## Hi 👋, I'm Emmanuel Emejulu
+<p align="center">
+<a href="https://bit.ly/EmejuluPortfolio">
+  <img width="140" src="https://avatars.githubusercontent.com/u/54607888?v=4" /> 
+  </a> 
+  <h2 align="center">Emejulu Portfolio</h2>
+  <p align="center">Web and Android Developer!</p>
+</p>
 
-Web Developer |  Android Developer
+<p align="center">
+<a href="https://bit.ly/EmejuluPortfolio">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=JUEsoft"/> 
+  </a>  
+ <a href="https://bit.ly/EmejuluPortfolio">
+    <img src="https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg"/> 
+  </a>
+</p>
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/EmejuluPortfolio)
