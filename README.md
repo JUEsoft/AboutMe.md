@@ -13,12 +13,9 @@
  <a href="https://bit.ly/EmejuluPortfolio">
     <img src="https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg"/> 
   </a>
+[![twitter](https://img.shields.io/twitter/follow/emejulucodes?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/emejulucodes)
+[![github](https://img.shields.io/github/followers/JUEsoft?logo=github&style=plastic)](https://github.com/JUEsoft?tab=followers)
 </p>
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/EmejuluPortfolio)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-emejulu-ba3411227/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emejulucodes)
 
 <p>
 <h2>🏆 Github Trophy </h2>
