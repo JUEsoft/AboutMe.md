@@ -28,7 +28,7 @@
 </a>
 </p>
 
-## 📊 stats
+## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUESoft&layout=compact&include_all_commits=true&&count_private=true&langs_count=20)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emejulu&layout=compact)
 ![Emejulu Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=JUEsoft&layout=compact&include_all_commits=true&&count_private=true&langs_count=20)
