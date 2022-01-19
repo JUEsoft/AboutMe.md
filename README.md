@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://bit.ly/EmejuluPortfolio">
-  <img width="140" src="https://avatars.githubusercontent.com/u/54607888?v=4" /> 
+  <img width="140" src="IMG-20211218-WA00446.png" /> 
   </a> 
   <h2 align="center">Emmanuel Emejulu</h2>
   <p align="center">Web and Android Developer</p>
