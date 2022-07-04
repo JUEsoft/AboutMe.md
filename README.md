@@ -33,4 +33,4 @@
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emejulu&layout=compact)
 ![Emejulu Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=emejulucodes&layout=compact&include_all_commits=true&&count_private=true&langs_count=20)
 ![Emejulu github stats](https://github-readme-stats.vercel.app/api?username=emejulucodes&show_icons=true&include_all_commits=true&&count_private=true)
-<img alt="Github Stats with Private Contributions" src="https://mrepol742.github.io/github-stats/generated/overview.svg">
+<img alt="Github Stats with Private Contributions" src="https://emejulucodes.github.io/github-stats/generated/overview.svg">
