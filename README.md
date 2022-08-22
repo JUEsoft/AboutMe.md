@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://bit.ly/EmejuluPortfolio">
-  <img width="250" src="IMG-20211218-WA00446.png" /> 
+<a href="https://emejulucodees.dev">
+  <img width="250" src="emejulucodes.png" /> 
   </a> 
   <h2 align="center">Emmanuel Emejulu</h2>
   <p align="center">Web and Android Developer</p>
@@ -23,7 +23,7 @@
 
 <p>
 <h2>🏆 Github Trophy </h2>
-<a href="https://emejulucodes.dev/profile">
+<a href="https://emejulucodes.dev">
 <img src="https://github-profile-trophy.vercel.app/?username=emejulucodes">
 </a>
 </p>
