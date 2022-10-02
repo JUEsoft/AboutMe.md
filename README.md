@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://emejulucodees.dev">
-  <img width="250" src="emejulucodes.png" /> 
+  <img width="250" src="IMG-20220929-WA0042.jpg" /> 
   </a> 
   <h2 align="center">Emmanuel Emejulu</h2>
   <p align="center">Web and Android Developer</p>
